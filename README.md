@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vensr
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning AI ML and Python
-- 💞️ I’m looking to collaborate on open source tool development
-- 📫 How to reach me @vensr
+- 👋 Hi, I’m venki
+- 👀 Technologist, Blogger, https://minilab.in
+- 🌱 I’m currently exploring the world of AI, ML and Python
+- 💞️ I love web3!
+- 📫 https://www.linkedin.com/in/venka/
 
 <!---
 vensr/vensr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
